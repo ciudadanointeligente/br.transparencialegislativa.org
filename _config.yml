@@ -9,9 +9,9 @@
 title: A Teia e a Trama
 email: contacto@cidadaniainteligente.org
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A Teia e Trama é um projeto da Cidadania Inteligente que busca expor
+  o papel das empresas nacionais
+  na crise política institucional, no âmbito da operação Lava Jato.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ateiaeatrama.org" # the base hostname & protocol for your site
 twitter_username: ciudadanoi
@@ -21,16 +21,24 @@ github_username:  ciudadanointeligente
 markdown: kramdown
 
 #OGP
-ogp_title:
+ogp_title: A Teia e a Trama
 ogp_type: website
 ogp_url:
 ogp_image:
-ogp_description:
+ogp_description: >
+  A Teia e Trama é um projeto da Cidadania Inteligente que busca expor
+  o papel das empresas nacionais
+  na crise política institucional, no âmbito da operação Lava Jato.
 
 #Twitter
 tw_card: summary
-tw_site:
-tw_title:
-tw_description:
+tw_site: "https://ateiaeatrama.org"
+tw_title: A Teia e a Trama
+tw_description: >
+  A Teia e Trama é um projeto da Cidadania Inteligente que busca expor
+  o papel das empresas nacionais
+  na crise política institucional, no âmbito da operação Lava Jato.
 tw_creator:
 tw_image:
+
+google-analytics: 'UA-41822715-15'

@@ -42,3 +42,7 @@ tw_creator:
 tw_image:
 
 google-analytics: 'UA-41822715-15'
+
+#browsers
+chrome-theme-color: '#000000'
+safari-theme-color: '#000000'

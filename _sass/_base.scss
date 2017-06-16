@@ -23,7 +23,7 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
-    background: url('/images/bg.jpg') no-repeat center center fixed;
+    background: url('/images/backgroundnovo-01.svg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -32,10 +32,10 @@ body {
 }
 
 .navbar-inverse {
-    background-image: -webkit-linear-gradient(top,#000000 0,#000000 100%);
+    background-image: -webkit-linear-gradient(top,$background-color 0,$background-color 100%);
     background-image: -o-linear-gradient(top,#000000 0,#000000 100%);
-    background-image: -webkit-gradient(linear,left top,left bottom,from(#000000),to(#000000));
-    background-image: linear-gradient(to bottom,#000000 0,#000000 100%);
+    background-image: -webkit-gradient(linear,left top,left bottom,from($background-color),to($background-color));
+    background-image: linear-gradient(to bottom,$background-color 0,$background-color 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff000000', endColorstr='#ff000000', GradientType=0);
     filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
     background-repeat: repeat-x;
@@ -68,9 +68,9 @@ body {
 }
 
 footer {
-  background-color: #000;
+  background-color: $background-color;
   padding: 20px 0;
   a {
-    color: #FFF;
+    color: $text-color;
   }
 }

@@ -4,14 +4,14 @@
 @charset "utf-8";
 
 @font-face {
-  font-family: 'Menlo Regular';
+  font-family: 'Roboto Light';
   font-style: normal;
   font-weight: normal;
-  src: local('Menlo Regular'), url('Menlo-Regular.woff') format('woff');
+  src: local('Roboto Light'), url('Roboto-Light.ttf') format('ttf');
 }
 
 // Our variables
-$base-font-family: "Menlo Regular", Helvetica, Arial, sans-serif;
+$base-font-family: "Roboto Light", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;

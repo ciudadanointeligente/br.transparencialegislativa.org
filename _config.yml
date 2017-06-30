@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: A Teia e a Trama
+title: Consulta Cidadã - Confiança no Legislativo
 email: contato@cidadaniainteligente.org
 description: > # this means to ignore newlines until "baseurl:"
-  A Teia e Trama é um projeto da Cidadania Inteligente que busca expor
-  o papel das empresas nacionais
-  na crise política institucional, no âmbito da operação Lava Jato.
+  A Fundação Cidadania Inteligente está apoiando a Rede Latino-Americana pela Transparência Legislativa (RLTL) 
+  em sua primeira ação no Brasil, 
+  que é parte do processo de reestruturação e planejamento estratégico da Rede.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ateiaeatrama.org" # the base hostname & protocol for your site
+url: "https://br.transparencialegislativa.org" # the base hostname & protocol for your site
 twitter_username: ciudadanoi
 github_username:  ciudadanointeligente
 
@@ -21,23 +21,22 @@ github_username:  ciudadanointeligente
 markdown: kramdown
 
 #OGP
-ogp_title: A Teia e a Trama
+ogp_title: Consulta Cidadã - Confiança no Legislativo
 ogp_type: website
 ogp_url:
 ogp_image:
 ogp_description: >
-  A Teia e Trama é um projeto da Cidadania Inteligente que busca expor
-  o papel das empresas nacionais
-  na crise política institucional, no âmbito da operação Lava Jato.
-
+  A Fundação Cidadania Inteligente está apoiando a Rede Latino-Americana pela Transparência Legislativa (RLTL) 
+  em sua primeira ação no Brasil, 
+  que é parte do processo de reestruturação e planejamento estratégico da Rede.
 #Twitter
 tw_card: summary
-tw_site: "https://ateiaeatrama.org"
-tw_title: A Teia e a Trama
+tw_site: "https://br.transparencialegislativa.org"
+tw_title: Consulta Cidadã - Confiança no Legislativo
 tw_description: >
-  A Teia e Trama é um projeto da Cidadania Inteligente que busca expor
-  o papel das empresas nacionais
-  na crise política institucional, no âmbito da operação Lava Jato.
+  A Fundação Cidadania Inteligente está apoiando a Rede Latino-Americana pela Transparência Legislativa (RLTL) 
+  em sua primeira ação no Brasil, 
+  que é parte do processo de reestruturação e planejamento estratégico da Rede.
 tw_creator:
 tw_image:
 
